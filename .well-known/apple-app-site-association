@@ -3,18 +3,18 @@
     "apps": [],
     "details": [
       {
-        "appID": "jp.co.nttdata.MynaPocket",
+        "appID": "3V6RSF9WZ2.jp.co.nttdata.MynaPocket",
         "paths": [ "/test" ]
       },
       {
-        "appID": "jp.co.nttdata.MynaPocket.Clip",
+        "appID": "3V6RSF9WZ2.jp.co.nttdata.MynaPocket.Clip",
         "paths": [ "/test" ]
       }
     ]
   },
   "appclips": {
     "apps": [
-      "jp.co.nttdata.MynaPocket.Clip"
+      "3V6RSF9WZ2.jp.co.nttdata.MynaPocket.Clip"
     ]
   }
 }
