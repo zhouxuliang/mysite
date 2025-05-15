@@ -3,18 +3,18 @@
     "apps": [],
     "details": [
       {
-        "appID": "ABCDE12345.jp.co.nttdata.MynaPocket",
+        "appID": "jp.co.nttdata.MynaPocket",
         "paths": [ "/test" ]
       },
       {
-        "appID": "ABCDE12345.jp.co.nttdata.MynaPocket.Clip",
+        "appID": "jp.co.nttdata.MynaPocket.Clip",
         "paths": [ "/test" ]
       }
     ]
   },
   "appclips": {
     "apps": [
-      "ABCDE12345.jp.co.nttdata.MynaPocket.Clip"
+      "jp.co.nttdata.MynaPocket.Clip"
     ]
   }
 }
