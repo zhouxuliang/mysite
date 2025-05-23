@@ -1,8 +1,7 @@
-{"webcredentials": 
-{"apps": ["CV52Y3W948.com.firigames.phoenixii", "CV52Y3W948.com.firigames.pocketquest", "AXGQEPV6S8.com.firigames.phoenixhd"]}, 
-　"applinks": {"apps": [], "details": [{"appID": "CV52Y3W948.com.firigames.phoenixii", 
-　　　"paths": ["/login/phoenix2", "/phoenix2/event"]}, 
-{"appID": "CV52Y3W948.com.firigames.pocketquest", 
-　"paths": ["/login/pocketquest", "/pocketquest/play"]}, 
-　{"appID": "AXGQEPV6S8.com.firigames.phoenixhd", "paths": ["/appclip.html"]}]}, 
-　"appclips": {"apps": ["CV52Y3W948.com.firigames.phoenixii.appclip"]}}
+{
+  "appclips": {
+    "apps": [
+      "CV52Y3W948.com.firigames.phoenixii.appclip"
+    ]
+  }
+}
