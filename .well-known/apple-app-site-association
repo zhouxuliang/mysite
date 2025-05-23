@@ -3,18 +3,9 @@
     "apps": [],
     "details": [
       {
-        "appID": "3V6RSF9WZ2.jp.co.nttdata.MynaPocket",
-        "paths": [ "/test" ]
-      },
-      {
-        "appID": "3V6RSF9WZ2.jp.co.nttdata.MynaPocket.Clip",
-        "paths": [ "/test" ]
+        "appID": "3V6RSF9WZ2.com.firigames.phoenixii.appclip",
+        "paths": [ "/appclip.html" ]
       }
-    ]
-  },
-  "appclips": {
-    "apps": [
-      "3V6RSF9WZ2.jp.co.nttdata.MynaPocket.Clip"
     ]
   }
 }
